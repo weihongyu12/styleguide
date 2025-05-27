@@ -1,5 +1,4 @@
 module.exports = {
-  assetsDir: '/styleguide/',
   exampleMode: 'expand',
   tocMode: 'expand',
   usageMode: 'expand',
