@@ -1,5 +1,5 @@
 
-## Variants
+### Variant 变体
 
 ```jsx
 <Button variant="primary">Primary</Button>
@@ -12,7 +12,7 @@
 <Button variant="dark">Dark</Button>
 ```
 
-## Outline
+### Outline 轮廓样式
 
 ```jsx
 <Button variant="primary" outline>Primary</Button>
@@ -25,7 +25,7 @@
 <Button variant="dark" outline>Dark</Button>
 ```
 
-## Sizes
+### Size 大小
 
 ```jsx
 <Button variant="primary" size="sm">Small</Button>
@@ -33,7 +33,7 @@
 <Button variant="primary" size="lg">Large</Button>
 ```
 
-## Disabled
+### Disabled 禁用状态
 
 ```jsx
 <Button variant="primary" disabled>Primary</Button>
@@ -55,7 +55,7 @@
 <Button variant="dark" outline disabled>Dark</Button>
 ```
 
-## Block
+### Block 块状按钮
 
 ```jsx
 <Button variant="primary" block>块状按钮</Button>
